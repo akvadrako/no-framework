@@ -1,0 +1,23 @@
+{
+  "name": "no-framework",
+  "description": "A lightweight javascript framework",
+  "version": "1.0.0",
+  "author": "Devin Bayer <dev@doubly.so>",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akvadrako/no-framework"
+  },
+  "keywords": [
+    "no",
+    "framework"
+  ],
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -t 10000"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
