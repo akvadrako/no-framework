@@ -20,6 +20,3 @@ There is nothing here.
 
 nope
 
-## License
-
-MIT © [Devin Bayer](https://doubly.so)
